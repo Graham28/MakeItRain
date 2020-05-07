@@ -1,7 +1,7 @@
 # MakeItRain
 Learning to dodge rain drops in PYGAME using Q-LEARNING
 
-<img src="https://imgflip.com/embed/40h1n9">
+![Image description](#)
 
 White cube learns to dodge blue rain drops(also cubes) using Q-Learning.
 
